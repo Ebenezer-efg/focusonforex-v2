@@ -1,0 +1,17 @@
+   ```text
+   pytest
+   pytest-asyncio
+   freezegun
+   respx
+   pydantic
+   pydantic-settings
+   httpx
+   tenacity
+   structlog
+   supabase
+   psycopg[binary]
+   pandas
+   pyarrow
+   google-generativeai
+   groq
+   ```
